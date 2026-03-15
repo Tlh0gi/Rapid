@@ -18,6 +18,7 @@ export default function RootLayout({ children }) {
           href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&family=Cinzel+Decorative:wght@400;700;900&family=Lato:wght@300;400;500;700&display=swap"
           rel="stylesheet"
         />
+        <link rel="icon" href="logo.png" />
       </head>
       <body>
         <AppRouterCacheProvider>
