@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { Box, Stack, Typography, CircularProgress } from '@mui/material';
 import AnswerOption from '@/components/AnswerOption';
-import PrizeLadder from '@/components/PrizeLadder';
+import PrizeLadder from '@/components/prizeLadder';
 
 const OPTION_KEYS = ['A', 'B', 'C', 'D'];
 
